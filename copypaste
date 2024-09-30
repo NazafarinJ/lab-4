@@ -1,0 +1,4 @@
+environment_variables	"token=LRSuYo93cwefUvz66eBqJU0UxJjiQQ7C"
+message	"User signed up successfully. Please copy and paste the environment_variables into your intelij java running environment variables."
+status_code	200
+token	"LRSuYo93cwefUvz66eBqJU0UxJjiQQ7C"
